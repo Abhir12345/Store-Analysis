@@ -49,12 +49,12 @@ The Excel file includes:
 
 ## 📷 Dashboard Preview
 > *(Add a screenshot or GIF of your dashboard here for better visibility)*  
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/vrinda-store-dashboard.git
+   git clone https://github.com/Abhir12345/vrinda-store-dashboard.git
 
